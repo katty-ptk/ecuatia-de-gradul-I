@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    text-align: center;
+}
+
+#title {
+    padding-top: 15%;
+}
+
+p, label {
+    font-weight: bold;
+}
+
+input {
+    width: 15%;
+}
+
+#x-value {
+    margin-top: 2%;
+}
+
+#error_text {
+    margin-top: 3.5%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}

@@ -1,0 +1,1 @@
+# ecuatia-de-gradul-I
